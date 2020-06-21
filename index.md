@@ -7,3 +7,5 @@ Kate Burkholder is a dectective working in Pennsylvania. She has an Amish backgr
 * Committed to her work
 * Good boss
 * Persistent
+
+> This is to a a favourit quote from the character, however, at the moment I don't remember any quote.
